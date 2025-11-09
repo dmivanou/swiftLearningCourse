@@ -6,9 +6,9 @@ class ViewController: UIViewController {
     
     var beers = BeerManager(
         beerBrands: [
-            "Corona Extra": 7,
-            "Heineken": 9,
-            "Belgian Kriek": 12
+            "Corona Extra": 6,
+            "Heineken": 8,
+            "Belgian Kriek": 10
         ],
         quantityOfProduct1: 0,
         quantityOfProduct2: 0,
