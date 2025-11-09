@@ -206,9 +206,4 @@ class ViewController: UIViewController {
         beers.resetQuantities()
         
     }
-    
-    func printHelloWorld() {
-        print("Hello World!")
-    }
-    
 }
